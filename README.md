@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/coding-blocks/gondor) 
+
 # Gondor
 
 A platform for internal tools at Coding Blocks, hosted at https://tools.codingblocks.com. This project is part of boss, please check for [issues here](https://github.com/coding-blocks/gondor/labels/BOSS). For any queries regarding setup or contribution, feel free to join [discord](https://discord.gg/wNFXjh) and post in #gondor channel.
